@@ -14,6 +14,18 @@
         
         <guid>https://Harugei.pages.dev/p/test1/</guid>
         <description>&lt;p&gt;hello world&lt;/p&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://latest.cactus.chat/cactus.js&#34;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://latest.cactus.chat/style.css&#34; type=&#34;text/css&#34;&gt;
+&lt;div id=&#34;comment-section&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+initComments({
+  node: document.getElementById(&#34;comment-section&#34;),
+  defaultHomeserverUrl: &#34;https://matrix.cactus.chat:8448&#34;,
+  serverName: &#34;cactus.chat&#34;,
+  siteName: &#34;harugei.pages.dev&#34;,
+  commentSectionId: &#34;cactus-comments&#34;
+})
+&lt;/script&gt;
 </description>
         </item>
         
