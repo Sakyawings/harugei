@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>http://localhost:1313/</link>
+        <link>https://Harugei.pages.dev/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>春&amp;芸</copyright>
-        <lastBuildDate>Mon, 25 Aug 2025 15:11:56 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 10 Nov 2025 00:16:07 +0800</lastBuildDate><atom:link href="https://Harugei.pages.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test1</title>
+        <link>https://Harugei.pages.dev/posts/test1/</link>
+        <pubDate>Mon, 10 Nov 2025 00:16:07 +0800</pubDate>
+        
+        <guid>https://Harugei.pages.dev/posts/test1/</guid>
+        <description>&lt;p&gt;hello world 2&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Test</title>
-        <link>http://localhost:1313/posts/test/</link>
+        <link>https://Harugei.pages.dev/posts/test/</link>
         <pubDate>Mon, 25 Aug 2025 15:11:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/test/</guid>
-        <description></description>
+        <guid>https://Harugei.pages.dev/posts/test/</guid>
+        <description>&lt;p&gt;hello world 1&lt;/p&gt;
+</description>
         </item>
         
     </channel>
